@@ -1,0 +1,39 @@
+/*css for index.html*/
+/*-----MARIA MATHEW------
+-----ID: 991491575------*/
+
+body{
+	background-image:url('../images/background.png');
+}
+
+#game{
+	background-image: url('../images/123.png');
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+	border-radius: 10px 10px 10px 10px;
+	font-family:goudy stout;
+	color: midnightblue;
+	font-weight: bold;
+	font-size: 2em;
+	padding-bottom:50px;
+	text-shadow: 5px 5px grey;
+	padding-top:30px;
+	padding-left:10px;
+	padding-right:10px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,220);
+}
+.button1{
+	font-family:goudy stout;
+	border-radius:12px;
+	font-size:0.5em;
+	font-weight:bold;
+	background:none;
+	padding:10px 20px 10px 20px;
+	border:none;
+	color:black;
+}
+#button1:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,220);
+}
