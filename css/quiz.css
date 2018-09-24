@@ -1,0 +1,56 @@
+/*css for quiz.html*/
+/*----MARIA MATHEW-----
+-----ID: 991491575----*/
+body{
+	background-image:url('../images/background1.png');
+	background-attachment:fixed;
+}
+#button2{
+	text-align: center;
+	font-family:goudy stout;
+	border-radius:12px;
+	font-size:0.5em;
+	font-weight:bold;
+	background:none;
+	padding:10px 20px 10px 20px;
+	border:none;
+	color:black;
+}
+.game{
+	background-image: url('../images/123.png');
+	border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,220);
+	font-family:sitka text;
+	margin-left:23%;
+	margin-top:50px;
+	font-size:1.25em;
+	width:700px;
+	padding-top:10px;
+	padding-left:10px;
+	border: thin solid grey;
+	}
+.tick{
+	color: darkgreen;
+	font-size: 0.75em;
+	font-weight:bold;
+}
+.cross{
+	color: darkred;
+	font-size:0.75em;
+	font-weight:bold;
+}
+.games{
+	background-image: url('../images/123.png');
+	border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,220);
+	font-family:sitka text;
+	margin-left:33%;
+	margin-top:50px;
+	font-size:1.25em;
+	width:400px;
+	padding-top:10px;
+	padding-left:10px;
+	border: thin solid grey;
+	text-align: center;
+}
+
